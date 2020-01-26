@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /pages/about/
-title: 
+title: &nbs;
 ---
 
 # ab/outage
