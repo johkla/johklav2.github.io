@@ -1,10 +1,10 @@
 ---
 layout: default
-permalink: index
+permalink: blog
 exclude: true
 ---
 
-## index
+## blog
 
 
 
