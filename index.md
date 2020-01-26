@@ -2,7 +2,7 @@
 layout: default
 permalink: index
 exclude: true
-title: index
+title: &nbs;
 ---
 
 ## indexing
