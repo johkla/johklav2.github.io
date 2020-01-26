@@ -1,5 +1,3 @@
-# we are pinkfooted geese
-
 we are pinkfooted geese  
 sleeping out on estuaries   
 and lochs — we come in   

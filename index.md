@@ -5,7 +5,7 @@ exclude: true
 title: &nbs;
 ---
 
-## indexing
+## blog index
 
 
 
