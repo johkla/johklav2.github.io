@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: johannesk.com — blog
+title: johannesk.com
 description: 
 github_username: 
 
@@ -28,7 +28,7 @@ plugins:
   - jekyll-octicons
 
 titles_from_headings:
-  enabled:     true
+  enabled: false
   strip_title: true
   collections: true
 
