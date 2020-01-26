@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: about
-exclude: true
+title: abouts
 ---
 
 # about
@@ -18,9 +18,9 @@ just for the record, here is the text from the old about page :
 <small>i live and work near utrecht in the netherlands and in melbourne australia — and on the internet.
 i am a writer, a narrative therapist and a [postatheist](https://drive.google.com/open?id=1-qnSdjorlKf_FZ__BwOmUAl-_9OlGpRefKDnjsUDPPk) spiritual carer... </small>
 
-<small>i am a provisional spiritual care training supervisor at the [peter mccallum cancer centre](https://www.petermac.org/).</small>
+<small></small>
 
-<small>i wrote a [book](https://docs.google.com/document/d/1RrVl_iYWO2gyPWlI6Nygl3Lpi0UuKfW3oYQDluI2huo/edit) called *i am here*, about which chris kraus said : *It’s beautifully written, incredibly moving and lingering … terrible, ordinary, tragic.*</small>
+<small>*</small>
 
 <small>in various former lives i was an artist, an academic, and in london in 1977 i was a member of a punk band called [the violators](https://punk77.co.uk/groups/violators.htm) and we shared the stage with such luminaries as xtc, siouxie and the banshees, squeeze and alternative tv. </small>
 
@@ -34,13 +34,17 @@ but now i am seriously considering not having 'i am a therapist' anymore. there 
 
 ## writing
 
-i wrote a book called i am here.
+i wrote a [book](https://docs.google.com/document/d/1RrVl_iYWO2gyPWlI6Nygl3Lpi0UuKfW3oYQDluI2huo/edit) called *i am here*, about which chris kraus said : *It’s beautifully written, incredibly moving and lingering … terrible, ordinary, tragic.
+
+
 
 ## supervision
 
-i am a pro
+i am a provisional spiritual care training supervisor at the [peter mccallum cancer centre](https://www.petermac.org/). i am also interested in supervising outside of institutional contexts.
 
 ## cv
+
+
 
 ### qualifications 
 
