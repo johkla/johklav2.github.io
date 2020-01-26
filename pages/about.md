@@ -1,10 +1,10 @@
 ---
 layout: default
-permalink: about
+permalink: /pages/about/
 title: 
 ---
 
-# about
+# ab/outage
 
 ok here is a new attempt at making a sensible about page.
 
