@@ -1,3 +1,9 @@
+---
+layout: default
+permalink: about
+exclude: true
+---
+
 # about
 
 ok here is a new attempt at making a sensible about page.
