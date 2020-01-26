@@ -1,3 +1,7 @@
+---
+permalink: bolle-jan
+---
+
 # Bolle Jan
 
 Joep is naar de Noordpool gegaan  
